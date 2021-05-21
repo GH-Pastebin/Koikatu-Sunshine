@@ -1,2 +1,2 @@
-# Koikatu2
-Koikatu2 Pastebin Mod Archive
+(コイカツ) - Koikatu
+https://twitter.com/i/status/1395591995280674818
