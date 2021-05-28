@@ -43,6 +43,7 @@
 **[English Translation]**
 --
 - [`XUnity.AutoTranslator-BepIn-5x-4.16.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`Koikatu Sunshine English_Launcher_ᴠ3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 
 ---
 **[Mod Archive]**
@@ -53,6 +54,7 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_ᴠ5.4.11`](https://github.com/BepInEx/BepInEx/releases)
+- [`BepInEx.Configuration_Manager_ᴠ16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 
 ---
 **[Utility Plugins]**
