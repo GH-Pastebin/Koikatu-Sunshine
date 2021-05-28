@@ -21,7 +21,7 @@
 ---
 **[Game Demo]**
 --
-- [`Koikatsu_Sunshine_Trial`](https://ai-shoujo.com/download/update/KKSS/TRIAL/koikatsu_sunshine_trial.exe)
+- [`koikatsu_sunshine_trial`](https://ai-shoujo.com/download/update/KKSS/TRIAL/koikatsu_sunshine_trial.exe)
 
 ---
 **[English Translation]**
