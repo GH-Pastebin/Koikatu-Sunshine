@@ -1,4 +1,4 @@
-(コイカツ2) - Koikatu2
+(コイカツ2 サンシャイン) - Koikatu2 Sunshine
 --
 
 ![Logo](https://i.imgur.com/LAvBM2E.png")
