@@ -37,7 +37,7 @@
 ---
 **[Game Trial]**
 --
-- [`koikatsu_sunshine_trial`](https://ai-shoujo.com/download/update/KKSS/TRIAL/koikatsu_sunshine_trial.exe) - `(Rename/Remove Japanese letters in the setup folder for the installer to work)`
+- [`koikatsu_sunshine_trial`](https://ai-shoujo.com/download/update/KKSS/TRIAL/koikatsu_sunshine_trial.exe)
 
 ---
 **[English Translation]**
