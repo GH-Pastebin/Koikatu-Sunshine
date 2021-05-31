@@ -54,11 +54,13 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_ᴠ5.4.11`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r16.3`](https://github.com/IllusionMods/BepisPlugins/releases/tag/r16.3-KKS)
+- [`BepInEx.Plugins_r16.3.1`](https://github.com/IllusionMods/BepisPlugins/releases/tag/r16.3-KKS)
 - [`BepInEx.Configuration_Manager_ᴠ16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
+- [`XUnity.ResourceRedirector-BepIn-5x-v1.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Sunshine API_ᴠ1.20`](https://github.com/IllusionMods/IllusionModdingAPI/releases/tag/v1.20)
+- [`Koikatu Sunshine Plugins`](https://www.patreon.com/posts/51893413)
 
 ---
 **[Utility Plugins]**
 --
-- `TBA`
+- [`Koikatu Sunshine Pregnancy_Plus_ᴠ3.11`](https://github.com/thojmr/KK_PregnancyPlus/releases)
