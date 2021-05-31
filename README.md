@@ -58,7 +58,7 @@
 - [`BepInEx.Configuration_Manager_ᴠ16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.ResourceRedirector-BepIn-5x-v1.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Sunshine API_ᴠ1.20`](https://github.com/IllusionMods/IllusionModdingAPI/releases/tag/v1.20)
-- [`Koikatu Sunshine Plugins_Trial_v1.0`](https://www.patreon.com/posts/51893413)
+- [`Koikatu Sunshine Plugins4Trial_v1.0`](https://www.patreon.com/posts/51893413)
 
 ---
 **[Utility Plugins]**
