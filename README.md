@@ -59,6 +59,7 @@
 - [`XUnity.Resource_Redirector-BepIn-5x-v1.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Sunshine API_ᴠ1.20`](https://github.com/IllusionMods/IllusionModdingAPI/releases/tag/v1.20)
 - [`Koikatu Sunshine Trial_Plugins_v1.0`](https://www.patreon.com/posts/51893413)
+- [`Koikatu Sunshine Material_Editor_v3.1.1`](https://www.patreon.com/posts/51941373)
 
 ---
 **[Utility Plugins]**
