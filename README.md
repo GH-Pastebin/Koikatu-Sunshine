@@ -9,6 +9,11 @@
 --
 
 ---
+**[News]** 
+--
+- [`Anon11/DeathWeasel`](https://www.patreon.com/posts/53085409)
+
+---
 **[FAQ]** 
 --
 - `TBA`
@@ -42,7 +47,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.16.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.16.3`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Sunshine English_Launcher_ᴠ3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.8`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r27)
 - [`Koikatu Sunshine Trial_English_Translations_v0.21`](https://cdn.discordapp.com/attachments/847675345297473546/855491631868018738/KKS_Trial_English_Translations_v0.21.zip)
@@ -55,13 +60,12 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_ᴠ5.4.11`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r16.3.1`](https://github.com/IllusionMods/BepisPlugins/releases/tag/r16.3-KKS)
+- [`BepInEx.Plugins_r16.3.1`](https://github.com/IllusionMods/BepisPlugins/releases/tag/r16.3.1)
 - [`BepInEx.Configuration_Manager_ᴠ16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v1.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
-- [`Koikatu Sunshine API_ᴠ1.20.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases/tag/v1.20)
-- [`Koikatu Sunshine Trial_Plugins_v2.0`](https://www.patreon.com/posts/51893413)
-- [`Koikatu Sunshine Material_Editor_v3.1.2`](https://www.patreon.com/posts/51941373)
-- [`Koikatu Sunshine Illusion_Fixes_ᴠ15.3`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Sunshine API_ᴠ1.20.3`](https://github.com/IllusionMods/IllusionModdingAPI/releases/tag/v1.20.3)
+- [`Koikatu Sunshine Material_Editor_v3.1.2`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Sunshine Illusion_Fixes_ᴠ15.3.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Sunshine ABMX_ᴠ4.4.2.0`](https://github.com/ManlyMarco/ABMX/releases)
 
