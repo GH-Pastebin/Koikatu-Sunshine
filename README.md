@@ -68,6 +68,7 @@
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ15.3.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Sunshine ABMX_ᴠ4.4.2.0`](https://github.com/ManlyMarco/ABMX/releases)
+- [`Koikatu Sunshine Plugins_Trial_v2.0`](https://www.mediafire.com/file/73k2ft6utht5rjm/Koikatu_Sunshine_Plugins_Trial_v2.0.zip/file)
 
 ---
 **[Utility Plugins]**
