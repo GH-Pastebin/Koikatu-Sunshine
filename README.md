@@ -73,7 +73,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu Sunshine Pregnancy_Plus_ᴠ3.17`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.0`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Slider_Highlight_v2.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Sunshine Character_Replacer`](https://cdn.discordapp.com/attachments/847675345297473546/850421528655036487/KKS_CharacterReplacer.dll)
-- [`Koikatu Sunshine Mod_Bone_Implantor`](https://cdn.discordapp.com/attachments/847675345297473546/850439116705628261/ModBoneImplantor.dll)
+- [`Koikatu Sunshine Mod_Bone_Implantor_v1.1.0.0`](https://github.com/IllusionMods/ModBoneImplantor/releases/tag/v1.1)
