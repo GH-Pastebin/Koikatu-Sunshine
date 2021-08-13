@@ -63,7 +63,7 @@
 - [`BepInEx.Plugins_r16.4`](https://github.com/IllusionMods/BepisPlugins)
 - [`BepInEx.Configuration_Manager_ᴠ16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v1.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
-- [`Koikatu Sunshine API_ᴠ1.21`](https://github.com/IllusionMods/IllusionModdingAPI/releases/tag/v1.20.3)
+- [`Koikatu Sunshine API_ᴠ1.21`](https://github.com/IllusionMods/IllusionModdingAPI/releases/tag/v1.21)
 - [`Koikatu Sunshine Material_Editor_v3.1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ16.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
