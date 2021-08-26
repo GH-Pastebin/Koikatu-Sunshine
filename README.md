@@ -40,6 +40,11 @@
 - `TBA`
 
 ---
+**[Latest Game Update]**
+--
+- `TBA`
+
+---
 **[English Translation]**
 --
 - [`XUnity.AutoTranslator-BepIn-5x-4.18.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
