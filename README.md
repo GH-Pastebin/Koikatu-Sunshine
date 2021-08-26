@@ -46,7 +46,7 @@
 - [`Koikatu Sunshine English_Launcher_ᴠ3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 
-
+---
 **[Mod Archive]**
 --
 
