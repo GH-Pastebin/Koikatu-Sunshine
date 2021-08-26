@@ -40,18 +40,12 @@
 - `TBA`
 
 ---
-**[Game Trial]**
---
-- [`koikatsu_sunshine_trial`](https://ai-shoujo.com/download/update/KKSS/TRIAL/koikatsu_sunshine_trial.exe)
-
----
 **[English Translation]**
 --
 - [`XUnity.AutoTranslator-BepIn-5x-4.18.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Sunshine English_Launcher_ᴠ3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
-- [`Koikatu Sunshine Trial_English_Translations_v0.21`](https://cdn.discordapp.com/attachments/847675345297473546/855491631868018738/KKS_Trial_English_Translations_v0.21.zip)
----
+
 **[Mod Archive]**
 --
 - `TBA`
@@ -68,7 +62,6 @@
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ16.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Sunshine ABMX_ᴠ4.4.3`](https://github.com/ManlyMarco/ABMX/releases)
-- [`Koikatu Sunshine Plugins_Trial_v2.0`](https://www.mediafire.com/file/73k2ft6utht5rjm/Koikatu_Sunshine_Plugins_Trial_v2.0.zip/file)
 
 ---
 **[Utility Plugins]**
