@@ -47,32 +47,33 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.18.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.18.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Sunshine English_Launcher_ᴠ3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 
 ---
 **[Mod Archive]**
 --
-- `TBA`
+- [`Koikatu Sunshine Mods, Plugins, Add-Ons & Animations`](https://www.mediafire.com/folder/doue908o4vx7z/Mods+&+Add-onX)
 
 ---
 **[Recommended Plugins]**
 --
 - [`BepInEx_ᴠ5.4.15`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r16.4`](https://github.com/IllusionMods/BepisPlugins)
+- [`BepInEx.Plugins_r16.5`](https://github.com/IllusionMods/BepisPlugins)
 - [`BepInEx.Configuration_Manager_ᴠ16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v1.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
-- [`Koikatu Sunshine API_ᴠ1.23`](https://github.com/IllusionMods/IllusionModdingAPI)
+- [`Koikatu Sunshine API_ᴠ1.24`](https://github.com/IllusionMods/IllusionModdingAPI)
 - [`Koikatu Sunshine Material_Editor_v3.1.2`](https://github.com/IllusionMods/KK_Plugins)
-- [`Koikatu Sunshine Illusion_Fixes_ᴠ16.0`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Sunshine Illusion_Fixes_ᴠ16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Sunshine ABMX_ᴠ4.4.3`](https://github.com/ManlyMarco/ABMX/releases)
+- [`Koikatu Sunshine Slap_Mod`](https://cdn.discordapp.com/attachments/847675345297473546/881154322476462111/KKS_Slapmod.zip)
 
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.8`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.10`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Slider_Highlight_v2.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Sunshine Character_Replacer`](https://cdn.discordapp.com/attachments/847675345297473546/850421528655036487/KKS_CharacterReplacer.dll)
 - [`Koikatu Sunshine Mod_Bone_Implantor_v1.1`](https://github.com/IllusionMods/ModBoneImplantor/releases/tag/v1.1)
