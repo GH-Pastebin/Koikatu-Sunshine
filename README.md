@@ -68,7 +68,6 @@
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Sunshine ABMX_ᴠ4.4.3`](https://github.com/ManlyMarco/ABMX/releases)
-- [`Koikatu Sunshine Slap_Mod`](https://cdn.discordapp.com/attachments/847675345297473546/881154322476462111/KKS_Slapmod.zip)
 
 ---
 **[Utility Plugins]**
@@ -78,3 +77,4 @@
 - [`Koikatu Sunshine Character_Replacer`](https://cdn.discordapp.com/attachments/847675345297473546/850421528655036487/KKS_CharacterReplacer.dll)
 - [`Koikatu Sunshine Mod_Bone_Implantor_v1.1`](https://github.com/IllusionMods/ModBoneImplantor/releases/tag/v1.1)
 - [`Koikatu Sunshine Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
+- [`Koikatu Sunshine Slap_Mod`](https://cdn.discordapp.com/attachments/847675345297473546/881154322476462111/KKS_Slapmod.zip)
