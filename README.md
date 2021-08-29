@@ -37,7 +37,8 @@
 ---
 **[Female & Male Uncensor]**
 --
-- `TBA`
+- [`Koikatu Sunshine Uncensor_Selector_v3.11.2`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Demosaic_v1.1`](https://github.com/IllusionMods/KK_Plugins/releases)
 
 ---
 **[Latest Game Update]**
@@ -78,3 +79,17 @@
 - [`Koikatu Sunshine Mod_Bone_Implantor_v1.1`](https://github.com/IllusionMods/ModBoneImplantor/releases/tag/v1.1)
 - [`Koikatu Sunshine Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`Koikatu Sunshine Slap_Mod`](https://cdn.discordapp.com/attachments/847675345297473546/881154322476462111/KKS_Slapmod.zip)
+- [`Koikatu Sunshine Accessory_Clothes_v1.0`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Clothing_Unlocker_v2.0.1`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Colliders_v1.2`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Dynamic_Bone_Editor_v1.0.3`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Eye_Control_v1.0.1`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Eye_Shaking_v1.2`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Force_High_Poly_v1.2.2`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine H_Chara_Adjustment_v2.0`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Hair_Accessory_Customizer_v1.1.5`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Pushup_v1.3`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Lighting_Tweaks_v1.0`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Subtitles_v2.2`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins/releases)
