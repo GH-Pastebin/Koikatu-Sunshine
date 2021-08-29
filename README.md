@@ -16,13 +16,12 @@
 ---
 **[FAQ]** 
 --
-- `TBA`
+- [`Wiki`](http://wiki.anime-sharing.com/hgames/index.php?title=Koikatsu_Sunshine)
 
 ---
 **[Discord]**
 --
 - [`Discord`](https://discord.gg/hevygx6)
-
 
 ---
 **[Game Save]**
