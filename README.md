@@ -33,6 +33,7 @@
 **[Website]**
 --
 - [`Illusion`](http://www.illusion.jp/preview/koikatsu_sunshine/index.php?0528DhKY3)
+- [`Booru`](https://kenzato.uk/booru/)
 
 ---
 **[Female & Male Uncensor]**
