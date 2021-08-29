@@ -48,7 +48,7 @@
 **[English Translation]**
 --
 - [`XUnity.AutoTranslator-BepIn-5x-4.18.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
-- [`Koikatu Sunshine English_Launcher_ᴠ3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
+- [`Koikatu Sunshine English_Launcher_ᴠ3.1.1.0`](https://cdn.discordapp.com/attachments/847675345297473546/880870511184318514/IllusionLaunchers_Koikatsu_Sunshine_3.1.1.0.zip)
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 
 ---
