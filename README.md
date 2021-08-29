@@ -42,7 +42,7 @@
 ---
 **[Latest Game Update]**
 --
-- `TBA`
+- [`koikatsu_sunshine_2_plus0827`](https://srv-store2.gofile.io/download/3d5d4bd9-0acc-49f0-8e8c-e644de244e55/koikatsu_sunshine_2_plus0827.exe)
 
 ---
 **[English Translation]**
@@ -54,7 +54,7 @@
 ---
 **[Mod Archive]**
 --
-- [`Koikatu Sunshine Mods, Plugins, Add-Ons & Animations`](https://www.mediafire.com/folder/doue908o4vx7z/Mods+&+Add-onX)
+- [`Koikatu Sunshine Mods & Add-Ons`](https://www.mediafire.com/folder/doue908o4vx7z/Mods+&+Add-onX)
 
 ---
 **[Recommended Plugins]**
