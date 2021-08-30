@@ -95,3 +95,5 @@
 - [`Koikatu Sunshine Lighting_Tweaks_v1.0`](https://github.com/IllusionMods/KK_Plugins/releases)
 - [`Koikatu Sunshine Subtitles_v2.2`](https://github.com/IllusionMods/KK_Plugins/releases)
 - [`Koikatu Sunshine Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins/releases)
+- [`Koikatu Sunshine Rim Remover_v1.2`](https://github.com/IllusionMods/RimRemover)
+- [`Koikatu Sunshine Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
