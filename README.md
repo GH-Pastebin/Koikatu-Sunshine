@@ -100,6 +100,6 @@
 - [`Koikatu Sunshine Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`Koikatu Sunshine Real_POV_v1.3`](https://cdn.discordapp.com/attachments/847675345297473546/883048777898926140/RealPOV.KoikatsuSunshine_v1.3.zip)
 - [`Koikatu Sunshine HeadUtl_v0.2.6`](https://cdn.discordapp.com/attachments/847675345297473546/882962540676665344/KKS_HeadUtl.zip)
-- [`Koikatu Sunshine Cheat_Tools_3.0`](https://www.patreon.com/posts/37889909)
+- [`Koikatu Sunshine Cheat_Tools_v3.0`](https://www.patreon.com/posts/37889909)
 - [`Koikatu Sunshine Butt_Plugin_v2.1.0`](https://www.patreon.com/posts/55589270)
 - [`Koikatu Sunshine Fixational_Eye_Movement_v1.3.3`](https://cdn.discordapp.com/attachments/847675345297473546/882962715516215366/KKS_FixationalEyeMovement.zip)
