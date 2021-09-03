@@ -66,6 +66,7 @@
 - [`BepInEx.Plugins_r16.6`](https://github.com/IllusionMods/BepisPlugins)
 - [`BepInEx.Configuration_Manager_ᴠ16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v1.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu Sunshine API_ᴠ1.24`](https://github.com/IllusionMods/IllusionModdingAPI)
 - [`Koikatu Sunshine Material_Editor_v3.1.3`](https://github.com/IllusionMods/KK_Plugins)
