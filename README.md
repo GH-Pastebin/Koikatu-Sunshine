@@ -81,7 +81,7 @@
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.13`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Sunshine Character_Replacer`](https://cdn.discordapp.com/attachments/847675345297473546/850421528655036487/KKS_CharacterReplacer.dll)
-- [`Koikatu Sunshine Mod_Bone_Implantor_v1.1.1.0`](https://github.com/IllusionMods/ModBoneImplantor/releases/tag/v1.1)
+- [`Koikatu Sunshine Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`Koikatu Sunshine Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`Koikatu Sunshine Slap_Mod`](https://cdn.discordapp.com/attachments/847675345297473546/881154322476462111/KKS_Slapmod.zip)
 - [`Koikatu Sunshine Accessory_Clothes_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
