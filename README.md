@@ -77,10 +77,11 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.12`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
+- [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.13`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Sunshine Character_Replacer`](https://cdn.discordapp.com/attachments/847675345297473546/850421528655036487/KKS_CharacterReplacer.dll)
-- [`Koikatu Sunshine Mod_Bone_Implantor_v1.1`](https://github.com/IllusionMods/ModBoneImplantor/releases/tag/v1.1)
+- [`Koikatu Sunshine Mod_Bone_Implantor_v1.1.1.0`](https://github.com/IllusionMods/ModBoneImplantor/releases/tag/v1.1)
 - [`Koikatu Sunshine Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`Koikatu Sunshine Slap_Mod`](https://cdn.discordapp.com/attachments/847675345297473546/881154322476462111/KKS_Slapmod.zip)
 - [`Koikatu Sunshine Accessory_Clothes_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
@@ -104,3 +105,5 @@
 - [`Koikatu Sunshine Cheat_Tools_v3.0`](https://www.patreon.com/posts/37889909)
 - [`Koikatu Sunshine Butt_Plugin_v2.1.0`](https://www.patreon.com/posts/55589270)
 - [`Koikatu Sunshine Fixational_Eye_Movement_v1.3.3`](https://cdn.discordapp.com/attachments/847675345297473546/882962715516215366/KKS_FixationalEyeMovement.zip)
+- [`Koikatu Sunshine Display_Thumbnails_v1.4.1`](https://cdn.discordapp.com/attachments/847675345297473546/883305822912925706/KKS_DisplayofThumbnails.zip)
+- [`Koikatu Sunshine Sub_Camera_v1.2.1`](https://cdn.discordapp.com/attachments/847675345297473546/883306075275800606/KKS_SubCamera.zip)
