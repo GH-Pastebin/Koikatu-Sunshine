@@ -109,3 +109,4 @@
 - [`Koikatu Sunshine Display_Thumbnails_v1.4.1`](https://cdn.discordapp.com/attachments/847675345297473546/883305822912925706/KKS_DisplayofThumbnails.zip)
 - [`Koikatu Sunshine Sub_Camera_v1.2.1`](https://cdn.discordapp.com/attachments/847675345297473546/883306075275800606/KKS_SubCamera.zip)
 - [`Koikatu Sunshine More_Outfits_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Eye_Catch_v1.0.4`](https://cdn.discordapp.com/attachments/847675345297473546/883305601013280808/KKS_EyeCatch.zip)
