@@ -50,7 +50,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.18.1`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`XUnity.AutoTranslator-BepIn-5x-4.19.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine English_Launcher_ᴠ3.1.1.0`](https://cdn.discordapp.com/attachments/847675345297473546/880870511184318514/IllusionLaunchers_Koikatsu_Sunshine_3.1.1.0.zip)
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 
@@ -63,20 +63,21 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_ᴠ5.4.15`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r16.6`](https://github.com/IllusionMods/BepisPlugins)
+- [`BepInEx.Plugins_r16.7`](https://github.com/IllusionMods/BepisPlugins)
 - [`BepInEx.Configuration_Manager_ᴠ16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v1.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`Koikatu Sunshine API_ᴠ1.24`](https://github.com/IllusionMods/IllusionModdingAPI)
-- [`Koikatu Sunshine Material_Editor_v3.1.3`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Sunshine API_ᴠ1.25`](https://github.com/IllusionMods/IllusionModdingAPI)
+- [`Koikatu Sunshine Material_Editor_v3.1.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
-- [`Koikatu Sunshine ABMX_ᴠ4.4.3`](https://github.com/ManlyMarco/ABMX/releases)
+- [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`Koikatu Sunshine ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 
 ---
 **[Utility Plugins]**
 --
+- [`Koikatu Sunshine Sabakan_Plugins_v0905`](https://cdn.discordapp.com/attachments/847675345297473546/883862486330277908/Sabakan_Plugins_0905.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.13`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
@@ -85,16 +86,16 @@
 - [`Koikatu Sunshine Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`Koikatu Sunshine Slap_Mod`](https://cdn.discordapp.com/attachments/847675345297473546/881154322476462111/KKS_Slapmod.zip)
 - [`Koikatu Sunshine Accessory_Clothes_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Clothing_Unlocker_v2.0.1`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Clothing_Unlocker_v2.0.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Colliders_v1.2`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Dynamic_Bone_Editor_v1.0.3`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Eye_Control_v1.0.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Eye_Shaking_v1.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Force_High_Poly_v1.2.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine H_Chara_Adjustment_v2.0`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Hair_Accessory_Customizer_v1.1.5`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Hair_Accessory_Customizer_v1.1.6`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Push_Up_v1.3`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Push_Up_v1.3.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Lighting_Tweaks_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Subtitles_v2.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
@@ -107,3 +108,4 @@
 - [`Koikatu Sunshine Fixational_Eye_Movement_v1.3.3`](https://cdn.discordapp.com/attachments/847675345297473546/882962715516215366/KKS_FixationalEyeMovement.zip)
 - [`Koikatu Sunshine Display_Thumbnails_v1.4.1`](https://cdn.discordapp.com/attachments/847675345297473546/883305822912925706/KKS_DisplayofThumbnails.zip)
 - [`Koikatu Sunshine Sub_Camera_v1.2.1`](https://cdn.discordapp.com/attachments/847675345297473546/883306075275800606/KKS_SubCamera.zip)
+- [`Koikatu Sunshine More_Outfits_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
