@@ -50,7 +50,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.19.0`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`XUnity.AutoTranslator-BepIn-5x-4.20.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Sunshine English_Launcher_ᴠ3.1.1.0`](https://cdn.discordapp.com/attachments/847675345297473546/880870511184318514/IllusionLaunchers_Koikatsu_Sunshine_3.1.1.0.zip)
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 
@@ -63,7 +63,7 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_ᴠ5.4.15`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r16.7`](https://github.com/IllusionMods/BepisPlugins)
+- [`BepInEx.Plugins_r16.7.1`](https://github.com/IllusionMods/BepisPlugins)
 - [`BepInEx.Configuration_Manager_ᴠ16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v1.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
@@ -77,7 +77,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu Sunshine Accessories_ᴠ2.0.1`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.1)
+- [`Koikatu Sunshine More_Accessories_ᴠ2.0.3`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.3)
 - [`Koikatu Sunshine Sabakan_Plugins_v0905`](https://cdn.discordapp.com/attachments/847675345297473546/883862486330277908/Sabakan_Plugins_0905.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.13`](https://github.com/thojmr/KK_PregnancyPlus/releases)
@@ -103,7 +103,7 @@
 - [`Koikatu Sunshine Rim_Remover_v1.2`](https://github.com/IllusionMods/RimRemover)
 - [`Koikatu Sunshine Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`Koikatu Sunshine Real_POV_v1.3`](https://cdn.discordapp.com/attachments/847675345297473546/883048777898926140/RealPOV.KoikatsuSunshine_v1.3.zip)
-- [`Koikatu Sunshine HeadUtl_v0.2.6`](https://cdn.discordapp.com/attachments/847675345297473546/882962540676665344/KKS_HeadUtl.zip)
+- [`Koikatu Sunshine Head_UTL_v0.2.6`](https://cdn.discordapp.com/attachments/847675345297473546/882962540676665344/KKS_HeadUtl.zip)
 - [`Koikatu Sunshine Cheat_Tools_v3.0`](https://www.patreon.com/posts/37889909)
 - [`Koikatu Sunshine Butt_Plugin_v2.1.0`](https://www.patreon.com/posts/55589270)
 - [`Koikatu Sunshine Fixational_Eye_Movement_v1.3.3`](https://cdn.discordapp.com/attachments/847675345297473546/882962715516215366/KKS_FixationalEyeMovement.zip)
@@ -111,3 +111,8 @@
 - [`Koikatu Sunshine Sub_Camera_v1.2.1`](https://cdn.discordapp.com/attachments/847675345297473546/883306075275800606/KKS_SubCamera.zip)
 - [`Koikatu Sunshine More_Outfits_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Eye_Catch_v1.0.4`](https://cdn.discordapp.com/attachments/847675345297473546/883305601013280808/KKS_EyeCatch.zip)
+- [`Koikatu Sunshine Hide_All_UI_v2.3`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3)
+- [`Koikatu Sunshine Drag_And_Drop_v1.2.4`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.4)
+- [`Koikatu Sunshine Accessory_States_v1.6`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
+- [`Koikatu Sunshine Better_Color_Picker_v2.0.2`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
+- [`Koikatu Sunshine Maker_Tool_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
