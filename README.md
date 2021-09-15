@@ -77,7 +77,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu Sunshine More_Accessories_ᴠ2.0.3`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.3)
+- [`Koikatu Sunshine More_Accessories_ᴠ2.0.4`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.4)
 - [`Koikatu Sunshine Sabakan_Plugins_v0905`](https://cdn.discordapp.com/attachments/847675345297473546/883862486330277908/Sabakan_Plugins_0905.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.13`](https://github.com/thojmr/KK_PregnancyPlus/releases)
