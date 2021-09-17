@@ -45,7 +45,7 @@
 ---
 **[Latest Game Update]**
 --
-- [`koikatsu_sunshine_2_plus0917fy7t`](https://store1.gofile.io/download/071908eb-ca13-4450-a463-3efdd65bad9c/koikatsu_sunshine_2_plus0917fy7t.exe)
+- [`koikatsu_sunshine_2_plus0917fy7t`](https://store1.gofile.io/download/071908eb-ca13-4450-a463-3efdd65bad9c/koikatsu_sunshine_2_plus0917fy7t.exe) - `(09/17/2021)`
 
 ---
 **[English Translation]**
