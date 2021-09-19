@@ -70,14 +70,14 @@
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu Sunshine API_ᴠ1.25`](https://github.com/IllusionMods/IllusionModdingAPI)
 - [`Koikatu Sunshine Material_Editor_v3.1.4`](https://github.com/IllusionMods/KK_Plugins)
-- [`Koikatu Sunshine Illusion_Fixes_ᴠ16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Sunshine Illusion_Fixes_ᴠ17.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Sunshine ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu Sunshine More_Accessories_ᴠ2.0.4`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.4)
+- [`Koikatu Sunshine More_Accessories_ᴠ2.0.5`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.5)
 - [`Koikatu Sunshine Sabakan_Plugins_v0905`](https://cdn.discordapp.com/attachments/847675345297473546/883862486330277908/Sabakan_Plugins_0905.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.14`](https://github.com/thojmr/KK_PregnancyPlus/releases)
