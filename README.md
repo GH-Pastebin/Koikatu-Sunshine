@@ -128,3 +128,4 @@
 - [`Koikatu Sunshine Accessory_States_v1.6`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
 - [`Koikatu Sunshine Better_Color_Picker_v2.0.2`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
 - [`Koikatu Sunshine Maker_Tool_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
+- [`Koikatu Sunshine Shadow_Quality_Settings_v0.9`](https://ux.getuploader.com/nHaruka_KK/download/66)
