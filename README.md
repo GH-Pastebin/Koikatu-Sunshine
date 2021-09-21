@@ -48,6 +48,18 @@
 - [`koikatsu_sunshine_2_plus0917fy7t`](https://store1.gofile.io/download/071908eb-ca13-4450-a463-3efdd65bad9c/koikatsu_sunshine_2_plus0917fy7t.exe) - `(09/17/2021)`
 
 ---
+**[CharaStudio]**
+--
+- [`Koikatu Sunshine CharaStudio_Part_01`](https://mega.nz/file/BT4h3aRD#MrRf7irysP421-nPoE1V8ExtnIrj8NwWBTCXlx4W5D0)
+- [`Koikatu Sunshine CharaStudio_Part_02`](https://mega.nz/file/ISJmTbhb#4ngXTFsw2WaG7yqE8zyfQMXLP52vtgjV7F1rN4LNUYs)
+- [`Koikatu Sunshine CharaStudio_Part_03`](https://mega.nz/file/oPYUSDrZ#BuzMp2juMjHFIxLnwlvpsIuemdPbx_nGZAMEWXDg3N4)
+
+---
+**[VR]**
+--
+- [`Koikatu Sunshine VR`](https://mega.nz/file/ASpkzY6Y#624_WWyBvI8S_YDCILiARzZueru4xfImsHDfovj_TKo)
+
+---
 **[English Translation]**
 --
 - [`XUnity.AutoTranslator-BepIn-5x-4.20.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
@@ -63,7 +75,7 @@
 **[Recommended Plugins]**
 --
 - [`BepInEx_ᴠ5.4.15`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r16.7.1`](https://github.com/IllusionMods/BepisPlugins)
+- [`BepInEx.Plugins_r16.8`](https://github.com/IllusionMods/BepisPlugins)
 - [`BepInEx.Configuration_Manager_ᴠ16.3`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v1.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
