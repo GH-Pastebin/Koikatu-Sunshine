@@ -90,7 +90,7 @@
 **[Utility Plugins]**
 --
 - [`Koikatu Sunshine More_Accessories_ᴠ2.0.6`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.6)
-- [`Koikatu Sunshine Sabakan_Plugins_v0905`](https://cdn.discordapp.com/attachments/847675345297473546/883862486330277908/Sabakan_Plugins_0905.zip)
+- [`Koikatu Sunshine Sabakan_Plugins_v0921`](https://cdn.discordapp.com/attachments/847675345297473546/889830827846955059/Sabakan_Plugins_0921.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.14`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
