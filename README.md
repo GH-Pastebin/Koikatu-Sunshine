@@ -81,7 +81,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu Sunshine API_ᴠ1.26`](https://github.com/IllusionMods/IllusionModdingAPI)
-- [`Koikatu Sunshine Material_Editor_v3.1.4`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Sunshine Material_Editor_v3.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ17.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Sunshine ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
@@ -89,7 +89,7 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu Sunshine More_Accessories_ᴠ2.0.6`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.6)
+- [`Koikatu Sunshine More_Accessories_ᴠ2.0.7`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine Sabakan_Plugins_v0921`](https://cdn.discordapp.com/attachments/847675345297473546/889830827846955059/Sabakan_Plugins_0921.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.15`](https://github.com/thojmr/KK_PregnancyPlus/releases)
@@ -110,7 +110,7 @@
 - [`Koikatu Sunshine Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Push_Up_v1.3.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Lighting_Tweaks_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Subtitles_v2.2`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Subtitles_v2.3`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Rim_Remover_v1.2`](https://github.com/IllusionMods/RimRemover)
 - [`Koikatu Sunshine Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
@@ -129,3 +129,4 @@
 - [`Koikatu Sunshine Better_Color_Picker_v2.0.2`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
 - [`Koikatu Sunshine Maker_Tool_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
 - [`Koikatu Sunshine Shadow_Quality_Settings_v0.9`](https://ux.getuploader.com/nHaruka_KK/download/66)
+- [`Koikatu Sunshine Ahegao_v2.0`](https://github.com/IllusionMods/Ahegao/releases/tag/2.0)
