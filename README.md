@@ -130,3 +130,4 @@
 - [`Koikatu Sunshine Maker_Tool_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
 - [`Koikatu Sunshine Shadow_Quality_Settings_v0.9`](https://ux.getuploader.com/nHaruka_KK/download/66)
 - [`Koikatu Sunshine Ahegao_v2.0`](https://github.com/IllusionMods/Ahegao/releases/tag/2.0)
+- [`Koikatu Sunshine TwoLut_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
