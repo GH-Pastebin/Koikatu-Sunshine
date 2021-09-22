@@ -131,3 +131,4 @@
 - [`Koikatu Sunshine Shadow_Quality_Settings_v0.9`](https://ux.getuploader.com/nHaruka_KK/download/66)
 - [`Koikatu Sunshine Ahegao_v2.0`](https://github.com/IllusionMods/Ahegao/releases/tag/2.0)
 - [`Koikatu Sunshine TwoLut_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Cross_Fader_v0.2.1`](https://cdn.discordapp.com/attachments/847675345297473546/890197238343680010/KKS_CrossFader.zip)
