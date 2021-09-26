@@ -143,4 +143,3 @@
 - [`Koikatu Sunshine Studio_Scene_Settings_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Quick_Load_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Text_Resource_Redirector_v1.4.5.2`](https://github.com/IllusionMods/KK_Plugins#readme)
-- 
