@@ -65,6 +65,7 @@
 - [`XUnity.AutoTranslator-BepIn-5x-4.20.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Sunshine English_Launcher_ᴠ3.1.1.2`](https://cdn.discordapp.com/attachments/840176841146630204/889800841274482699/IllusionLaunchers_Koikatsu_Sunshine_3.1.1.20074.zip)
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
+- [`Koikatu Sunshine_Translation_Release_v2021-09-30`](https://github.com/IllusionMods/KKS-Translation/releases/tag/v1)
 
 ---
 **[Mod Archive]**
@@ -90,7 +91,7 @@
 **[Utility Plugins]**
 --
 - [`Koikatu Sunshine More_Accessories_ᴠ2.0.10`](https://github.com/jalil49/MoreAccessories/releases)
-- [`Koikatu Sunshine Sabakan_Plugins_v0921`](https://cdn.discordapp.com/attachments/847675345297473546/889830827846955059/Sabakan_Plugins_0921.zip)
+- [`Koikatu Sunshine Sabakan_Plugins_v1001`](https://cdn.discordapp.com/attachments/847675345297473546/893434361280618496/Sabakan_Plugins_1001.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.15`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
@@ -131,7 +132,7 @@
 - [`Koikatu Sunshine Shadow_Quality_Settings_v0.9`](https://ux.getuploader.com/nHaruka_KK/download/66)
 - [`Koikatu Sunshine Ahegao_v2.0`](https://github.com/IllusionMods/Ahegao/releases/tag/2.0)
 - [`Koikatu Sunshine TwoLut_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Cross_Fader_v0.2.1`](https://cdn.discordapp.com/attachments/847675345297473546/890197238343680010/KKS_CrossFader.zip)
+- [`Koikatu Sunshine Cross_Fader_v0.2.2`](https://cdn.discordapp.com/attachments/847675345297473546/894513051091496970/KKS_CrossFader.zip)
 - [`Koikatu Sunshine Studio_Scene_Loaded_Sound_v1.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Animation_Controller_v2.3`](https://github.com/IllusionMods/KK_Plugins#readme)
