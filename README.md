@@ -145,4 +145,5 @@
 - [`Koikatu Sunshine Text_Resource_Redirector_v1.4.5.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Browser_Folders_v2.6.0`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine Quick_Access_Box_2.4.3`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu Sunshine MMDD_ᴠ2.2.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - 
