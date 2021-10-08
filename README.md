@@ -84,7 +84,7 @@
 - [`Koikatu Sunshine API_ᴠ1.26`](https://github.com/IllusionMods/IllusionModdingAPI)
 - [`Koikatu Sunshine Material_Editor_v3.1.9`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ18.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Sunshine ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
 
 ---
