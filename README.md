@@ -85,7 +85,7 @@
 - [`Koikatu Sunshine Material_Editor_v3.1.10`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ18.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
-- [`Koikatu Sunshine ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
+- [`Koikatu Sunshine ABMX_ᴠ4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 
 ---
 **[Utility Plugins]**
@@ -148,4 +148,4 @@
 - [`Koikatu Sunshine Quick_Access_Box_2.4.3`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine MMDD_ᴠ2.2.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu Sunshine VN_Game_Engine_ᴠ31.2`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
-- [`Koikatu Sunshine Skin_Effects_ᴠ2.0`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
+- [`Koikatu Sunshine Skin_Effects_ᴠ2.0.1`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
