@@ -65,7 +65,7 @@
 - [`XUnity.AutoTranslator-BepIn-5x-4.20.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Sunshine English_Launcher_ᴠ3.1.1.2`](https://cdn.discordapp.com/attachments/840176841146630204/889800841274482699/IllusionLaunchers_Koikatsu_Sunshine_3.1.1.20074.zip)
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
-- [`Koikatu Sunshine Translation_Release_v2021-09-30`](https://github.com/IllusionMods/KKS-Translation/releases/tag/v1)
+- [`Koikatu Sunshine Translation_Release_v2021-10-16`](https://github.com/IllusionMods/KKS-Translation/releases/tag/v2)
 
 ---
 **[Mod Archive]**
@@ -83,15 +83,15 @@
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu Sunshine API_ᴠ1.27`](https://github.com/IllusionMods/IllusionModdingAPI)
 - [`Koikatu Sunshine Material_Editor_v3.1.10`](https://github.com/IllusionMods/KK_Plugins)
-- [`Koikatu Sunshine Illusion_Fixes_ᴠ18.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Sunshine Illusion_Fixes_ᴠ18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Sunshine ABMX_ᴠ4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu Sunshine More_Accessories_ᴠ2.0.10`](https://github.com/jalil49/MoreAccessories/releases)
-- [`Koikatu Sunshine Sabakan_Plugins_v1001`](https://cdn.discordapp.com/attachments/847675345297473546/893434361280618496/Sabakan_Plugins_1001.zip)
+- [`Koikatu Sunshine More_Accessories_ᴠ2.0.11`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu Sunshine Sabakan_Plugins_v1015`](https://cdn.discordapp.com/attachments/847675345297473546/898512198492651540/Sabakan_Plugins_1015.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.15`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
@@ -145,7 +145,8 @@
 - [`Koikatu Sunshine Pose_Quick_Load_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Text_Resource_Redirector_v1.4.5.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Browser_Folders_v2.6.0`](https://github.com/jalil49/MoreAccessories/releases)
-- [`Koikatu Sunshine Quick_Access_Box_2.4.3`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu Sunshine Quick_Access_Box_2.4.4`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine MMDD_ᴠ2.2.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu Sunshine VN_Game_Engine_ᴠ31.2`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Sunshine Skin_Effects_ᴠ2.0.1`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
+- [`Koikatu Sunshine More_Accessory_Parents_v2.0`](https://www.patreon.com/posts/24129495)
