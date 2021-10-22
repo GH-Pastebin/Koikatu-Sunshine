@@ -45,7 +45,7 @@
 ---
 **[Latest Game Update]**
 --
-- [`koikatsu_sunshine_2_plus0917fy7t`](https://store1.gofile.io/download/071908eb-ca13-4450-a463-3efdd65bad9c/koikatsu_sunshine_2_plus0917fy7t.exe) - `(09/17/2021)`
+- [`koikatsu_sunshine_2_plus1008mlpmt`](https://mega.nz/file/oTp0yKjA#uThUcSr-UqORv4E1xc1KQ8YIlx1QdvrJ1x3NurTax3U) - `(10/08/2021)`
 
 ---
 **[CharaStudio]**
