@@ -90,10 +90,10 @@
 ---
 **[Utility Plugins]**
 --
-- [`Koikatu Sunshine More_Accessories_ᴠ2.0.13`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu Sunshine More_Accessories_ᴠ2.0.15`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine Sabakan_Plugins_v1015`](https://cdn.discordapp.com/attachments/847675345297473546/898512198492651540/Sabakan_Plugins_1015.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
-- [`Koikatu Sunshine Pregnancy_Plus_ᴠ4.15`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Sunshine Pregnancy_Plus_ᴠ5.2`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Sunshine Character_Replacer`](https://cdn.discordapp.com/attachments/847675345297473546/850421528655036487/KKS_CharacterReplacer.dll)
 - [`Koikatu Sunshine Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
@@ -144,10 +144,11 @@
 - [`Koikatu Sunshine Studio_Scene_Settings_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Quick_Load_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Text_Resource_Redirector_v1.4.5.2`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Browser_Folders_v2.6.0`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu Sunshine Browser_Folders_v2.6.1`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine Quick_Access_Box_2.4.4`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine MMDD_ᴠ2.2.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu Sunshine VN_Game_Engine_ᴠ31.2`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Sunshine Skin_Effects_ᴠ2.0.1`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
 - [`Koikatu Sunshine More_Accessory_Parents_v2.0`](https://www.patreon.com/posts/24129495)
 - [`Koikatu Sunshine Clothing_State_Menu_ᴠ3.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
+- [`Koikatu Sunshine Height_Bar_v3.4`](https://www.patreon.com/posts/35859949)
