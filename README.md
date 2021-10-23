@@ -150,3 +150,4 @@
 - [`Koikatu Sunshine VN_Game_Engine_ᴠ31.2`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Sunshine Skin_Effects_ᴠ2.0.1`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
 - [`Koikatu Sunshine More_Accessory_Parents_v2.0`](https://www.patreon.com/posts/24129495)
+- [`Koikatu Sunshine Clothing_State_Menu_ᴠ3.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
