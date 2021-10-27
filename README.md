@@ -91,7 +91,7 @@
 **[Utility Plugins]**
 --
 - [`Koikatu Sunshine More_Accessories_ᴠ2.0.17`](https://github.com/jalil49/MoreAccessories/releases)
-- [`Koikatu Sunshine Sabakan_Plugins_v1015`](https://cdn.discordapp.com/attachments/847675345297473546/898512198492651540/Sabakan_Plugins_1015.zip)
+- [`Koikatu Sunshine Sabakan_Plugins_v1026`](https://cdn.discordapp.com/attachments/847675345297473546/898512198492651540/Sabakan_Plugins_1026.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ5.2`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
@@ -152,3 +152,4 @@
 - [`Koikatu Sunshine More_Accessory_Parents_v2.0`](https://www.patreon.com/posts/24129495)
 - [`Koikatu Sunshine Clothing_State_Menu_ᴠ3.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
 - [`Koikatu Sunshine Height_Bar_v3.4`](https://www.patreon.com/posts/35859949)
+- [`Koikatu Sunshine Adv_IK_Plugin_ᴠ1.6.5`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
