@@ -153,3 +153,4 @@
 - [`Koikatu Sunshine Clothing_State_Menu_ᴠ3.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
 - [`Koikatu Sunshine Height_Bar_v3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Sunshine Adv_IK_Plugin_ᴠ1.6.5`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
+- [`Koikatu Sunshine Stiletto_Beta_v2021.10.28`](https://github.com/Cl33p/Stiletto/releases/tag/v1)
