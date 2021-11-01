@@ -91,6 +91,7 @@
 **[Utility Plugins]**
 --
 - [`Koikatu Sunshine More_Accessories_ᴠ2.0.19`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu Sunshine Better_Penetration_v4.4.0`](https://github.com/Animal42069/BetterPenetration/releases/tag/4.4.0)
 - [`Koikatu Sunshine Sabakan_Plugins_v1026`](https://cdn.discordapp.com/attachments/847675345297473546/898512198492651540/Sabakan_Plugins_1026.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ5.2`](https://github.com/thojmr/KK_PregnancyPlus/releases)
