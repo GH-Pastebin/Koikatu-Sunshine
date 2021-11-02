@@ -45,7 +45,7 @@
 ---
 **[Latest Game Update]**
 --
-- [`koikatsu_sunshine_2_plus1008mlpmt`](https://mega.nz/file/oTp0yKjA#uThUcSr-UqORv4E1xc1KQ8YIlx1QdvrJ1x3NurTax3U) - `(10/08/2021)`
+- [`koikatsu_sunshine_2_plus1029g4qd`](https://dl.betterrepack.com/IllusionLib/Koikatsu%20Sunshine/Updates/koikatsu_sunshine_2_plus1029g4qd.exe) - `(10/30/2021)`
 
 ---
 **[CharaStudio]**
