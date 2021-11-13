@@ -84,7 +84,7 @@
 - [`Koikatu Sunshine API_ᴠ1.28.2`](https://github.com/IllusionMods/IllusionModdingAPI)
 - [`Koikatu Sunshine Material_Editor_v3.1.10`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.5`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Sunshine ABMX_ᴠ4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 
 ---
@@ -146,7 +146,7 @@
 - [`Koikatu Sunshine Studio_Scene_Settings_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Quick_Load_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Text_Resource_Redirector_v1.4.5.2`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Browser_Folders_v2.6.1`](https://github.com/jalil49/MoreAccessories/releases)
+- [`Koikatu Sunshine Browser_Folders_v2.6.2`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine Quick_Access_Box_2.4.4`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine MMDD_ᴠ2.2.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu Sunshine VN_Game_Engine_ᴠ32.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
