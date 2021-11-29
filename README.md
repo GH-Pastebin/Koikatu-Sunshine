@@ -161,4 +161,3 @@
 - [`Koikatu Sunshine Cheat_Tools_ᴠ3.1`](https://www.patreon.com/posts/37889909)
 - [`Koikatu Sunshine Expression_Control_v0.2.6`](https://drive.google.com/file/d/1bonOxdZSUUvmckT8qPasGULrVJ8Dh3mx/view?usp=sharing)
 - [`Koikatu Sunshine Moar_Camz_Plugin_v1.0.6`](https://github.com/OrangeSpork/MoarCamz)
-- [`Koikatu Sunshine Sex_Faces_v1.1.1`](https://github.com/Sauceke/KK_SexFaces)
