@@ -34,7 +34,7 @@
 - [`Illusion`](http://www.illusion.jp/preview/koikatsu_sunshine/index.php?0528DhKY3)
 - [`Booru`](https://kenzato.uk/booru/)
 - [`Plugins-Compendium`](https://github.com/Frostation/KK-Plugins-Compendium)
-- [`Plugin_Data_Reader`](https://plugindatareader.maki0419.com/)
+- [`Plugin Data Reader`](https://plugindatareader.maki0419.com/)
 
 ---
 **[Female & Male Uncensor]**
