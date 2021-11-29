@@ -40,7 +40,7 @@
 **[Female & Male Uncensor]**
 --
 - [`Koikatu Sunshine Uncensor_Selector_v3.11.5`](https://github.com/IllusionMods/KK_Plugins/releases)
-- [`Koikatu Sunshine SAC_Uncensor_Selector_Package_v0.1`](https://www.mediafire.com/file/bj5gc72q1986uu0/Koikatu_Sunshine_SAC_Uncensor_Selector_Package_v0.1.zip/file)
+- [`Koikatu Sunshine SAC_Uncensor_Selector_Package_v0.2`](https://cdn.discordapp.com/attachments/476358846764548137/914712911421780008/anon_SAC_Uncensor_Selector_Pack_v0.0.2.zipmod)
 - [`Koikatu Sunshine Demosaic_v1.1`](https://github.com/IllusionMods/KK_Plugins/releases)
 
 ---
