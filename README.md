@@ -82,7 +82,7 @@
 - [`XUnity.Resource_Redirector-BepIn-5x-v1.2.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`Koikatu Sunshine API_ᴠ1.29`](https://github.com/IllusionMods/IllusionModdingAPI)
+- [`Koikatu Sunshine API_ᴠ1.29.1`](https://github.com/IllusionMods/IllusionModdingAPI)
 - [`Koikatu Sunshine Material_Editor_v3.1.11`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ19.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.6`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
@@ -165,3 +165,4 @@
 - [`Koikatu Sunshine KKSPE`](https://cdn.discordapp.com/attachments/847675345297473546/915961529147465798/KKSPE.dll)
 - [`Koikatu Sunshine Nodes_Constraints`](https://cdn.discordapp.com/attachments/847675345297473546/915961529608859688/NodesConstraints.dll)
 - [`Koikatu Sunshine Timeline`](https://cdn.discordapp.com/attachments/847675345297473546/915961529394925608/Timeline.dll)
+- [`Koikatu Sunshine Lewd_CrestX_v1.3`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
