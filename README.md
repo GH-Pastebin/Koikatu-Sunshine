@@ -66,7 +66,7 @@
 - [`XUnity.AutoTranslator-BepIn-5x-4.20.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Koikatu Sunshine English_Launcher_ᴠ3.1.1.2`](https://cdn.discordapp.com/attachments/840176841146630204/889800841274482699/IllusionLaunchers_Koikatsu_Sunshine_3.1.1.20074.zip)
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
-- [`Koikatu Sunshine Translation_Release_v2021-10-16`](https://github.com/IllusionMods/KKS-Translation/releases/tag/v2)
+- [`Koikatu Sunshine Translation_Release_v2021-12-19`](https://github.com/IllusionMods/KKS-Translation/releases/tag/v2)
 
 ---
 **[Mod Archive]**
@@ -93,7 +93,7 @@
 **[Utility Plugins]**
 --
 - [`Koikatu Sunshine More_Accessories_ᴠ2.0.20`](https://github.com/jalil49/MoreAccessories/releases)
-- [`Koikatu Sunshine Better_Penetration_v4.4.0`](https://github.com/Animal42069/BetterPenetration/releases/tag/4.4.0)
+- [`Koikatu Sunshine Better_Penetration_v4.5.0`](https://github.com/Animal42069/BetterPenetration/releases/tag/4.4.0)
 - [`Koikatu Sunshine Sabakan_Plugins_v1026`](https://cdn.discordapp.com/attachments/847675345297473546/898512198492651540/Sabakan_Plugins_1026.zip)
 - [`Koikatu Sunshine Studio_Mod_Plugins`](https://app.mediafire.com/yegzotkjkpfyj)
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ5.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
@@ -129,7 +129,7 @@
 - [`Koikatu Sunshine More_Outfits_v1.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Eye_Catch_v1.0.4`](https://cdn.discordapp.com/attachments/847675345297473546/883305601013280808/KKS_EyeCatch.zip)
 - [`Koikatu Sunshine Hide_All_UI_v2.3.2`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3.1)
-- [`Koikatu Sunshine Drag_And_Drop_v1.2.6`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.5)
+- [`Koikatu Sunshine Drag_And_Drop_v1.2.7`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.7)
 - [`Koikatu Sunshine Accessory_States_v1.6`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
 - [`Koikatu Sunshine Better_Color_Picker_v2.0.2`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
 - [`Koikatu Sunshine Maker_Tool_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
@@ -158,7 +158,7 @@
 - [`Koikatu Sunshine Height_Bar_v3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Sunshine Adv_IK_Plugin_ᴠ1.6.7`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`Koikatu Sunshine Stiletto_Beta_v2021.10.28`](https://github.com/Cl33p/Stiletto/releases/tag/v1)
-- [`Koikatu Sunshine Cheat_Tools_ᴠ3.1`](https://www.patreon.com/posts/37889909)
+- [`Koikatu Sunshine Cheat_Tools_ᴠ3.1.1`](https://www.patreon.com/posts/37889909)
 - [`Koikatu Sunshine Expression_Control_v0.2.6`](https://drive.google.com/file/d/1bonOxdZSUUvmckT8qPasGULrVJ8Dh3mx/view?usp=sharing)
 - [`Koikatu Sunshine Moar_Camz_Plugin_v1.0.7`](https://github.com/OrangeSpork/MoarCamz)
 - [`Koikatu Sunshine Add_Pose_v1.1`](https://cdn.discordapp.com/attachments/847675345297473546/914399165012922438/KKS_add_pose_v1.1.zipmod)
