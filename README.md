@@ -37,7 +37,7 @@
 - [`Plugin Data Reader`](https://plugindatareader.maki0419.com/)
 
 ---
-**[Female & Male Uncensor]**
+**[Female & Male Uncensor Mod]**
 --
 - [`Koikatu Sunshine Uncensor_Selector_v3.11.5`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine SAC_Uncensor_Selector_Package_v0.2`](https://cdn.discordapp.com/attachments/476358846764548137/914712911421780008/anon_SAC_Uncensor_Selector_Pack_v0.0.2.zipmod)
@@ -49,7 +49,7 @@
 - [`koikatsu_sunshine_2_plus1210q2bt`](https://dl.betterrepack.com/IllusionLib/Koikatsu%20Sunshine/Updates/koikatsu_sunshine_2_plus1210q2bt.exe) - `(12/15/2021)`
 
 ---
-**[CharaStudio]**
+**[Character Studio Update]**
 --
 - [`Koikatu Sunshine CharaStudio_Part_01`](https://mega.nz/file/BT4h3aRD#MrRf7irysP421-nPoE1V8ExtnIrj8NwWBTCXlx4W5D0)
 - [`Koikatu Sunshine CharaStudio_Part_02`](https://mega.nz/file/ISJmTbhb#4ngXTFsw2WaG7yqE8zyfQMXLP52vtgjV7F1rN4LNUYs)
@@ -86,7 +86,7 @@
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ19.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
-**[Utility Plugins]**
+**[Utility Mod Plugins]**
 --
 
 [A]
