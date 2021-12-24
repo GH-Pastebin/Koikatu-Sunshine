@@ -104,7 +104,7 @@
 [B]
 --
 - [`Koikatu Sunshine Better_Penetration_v4.5.0`](https://github.com/Animal42069/BetterPenetration/releases/tag/4.5.0)
-- [`Koikatu Sunshine Better_Color_Picker_v2.0.2`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
+- [`Koikatu Sunshine Better_Color_Picker_v2.0.3`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
 - [`Koikatu Sunshine Butt_Plugin_v2.1.0`](https://www.patreon.com/posts/55589270)
 - [`Koikatu Sunshine Browser_Folders_v2.6.2`](https://www.patreon.com/posts/40644638)
 
@@ -127,7 +127,7 @@
 [E]
 --
 - [`Koikatu Sunshine Eye_Control_v1.0.1`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Eye_Shaking_v1.2`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Eye_Shaking_v1.3`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Eye_Catch_v1.0.4`](https://cdn.discordapp.com/attachments/847675345297473546/883305601013280808/KKS_EyeCatch.zip)
 - [`Koikatu Sunshine Expression_Control_v0.2.6`](https://drive.google.com/file/d/1bonOxdZSUUvmckT8qPasGULrVJ8Dh3mx/view?usp=sharing)
 
@@ -150,7 +150,7 @@
 
 [I]
 --
-- [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.6`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`Koikatu Sunshine Illusion_Overlay_Mods_ᴠ6.0.7`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`Koikatu Sunshine Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins#readme)
 
 [J]
@@ -176,7 +176,7 @@
 - [`Koikatu Sunshine Moar_Camz_Plugin_v1.0.7`](https://github.com/OrangeSpork/MoarCamz)
 - [`Koikatu Sunshine Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch)
 - [`Koikatu Sunshine Maker_Tools_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
-- [`Koikatu Sunshine More_Outfits_v1.1`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine More_Outfits_v1.1.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Modified_Head_Mod_v2.2`](https://mega.nz/folder/Bl4gEZbQ#_JenLFfcp-jvyPIu9Pjo7A)
 
 [N]
