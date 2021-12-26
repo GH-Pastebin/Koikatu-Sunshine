@@ -66,7 +66,7 @@
 - [`Koikatu Sunshine English_Launcher_ᴠ3.2.0`](https://github.com/IllusionMods/IllusionLaunchers)
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 - [`Koikatu Sunshine Translation_Release_v2021-12-19`](https://github.com/IllusionMods/KKS-Translation/releases/tag/v3)
-- [`XUnity.AutoTranslator-BepIn-5x-4.20.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.21.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
  
 ---
 **[Mod Archive]**
@@ -110,7 +110,7 @@
 
 [C]
 --
-- [`Koikatu Sunshine Character_Replacer`](https://cdn.discordapp.com/attachments/847675345297473546/850421528655036487/KKS_CharacterReplacer.dll)
+- [`Koikatu Sunshine Character_Replacer_v1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
 - [`Koikatu Sunshine Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`Koikatu Sunshine Clothing_Unlocker_v2.0.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Colliders_v1.2`](https://github.com/IllusionMods/KK_Plugins#readme)
