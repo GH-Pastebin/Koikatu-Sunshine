@@ -82,7 +82,7 @@
 - [`XUnity.Resource_Redirector-BepIn-5x-v1.2.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`Koikatu Sunshine API_ᴠ1.30`](https://github.com/IllusionMods/IllusionModdingAPI)
+- [`Koikatu Sunshine API_ᴠ1.30.1`](https://github.com/IllusionMods/IllusionModdingAPI)
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ19.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
@@ -176,7 +176,7 @@
 - [`Koikatu Sunshine Moar_Camz_Plugin_v1.0.7`](https://github.com/OrangeSpork/MoarCamz)
 - [`Koikatu Sunshine Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch)
 - [`Koikatu Sunshine Maker_Tools_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
-- [`Koikatu Sunshine More_Outfits_v1.1.1`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine More_Outfits_v1.1.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Modified_Head_Mod_v2.2`](https://mega.nz/folder/Bl4gEZbQ#_JenLFfcp-jvyPIu9Pjo7A)
 
 [N]
