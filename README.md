@@ -83,7 +83,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu Sunshine API_ᴠ1.30.1`](https://github.com/IllusionMods/IllusionModdingAPI)
-- [`Koikatu Sunshine Illusion_Fixes_ᴠ19.0`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Sunshine Illusion_Fixes_ᴠ19.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
 **[Utility Mod Plugins]**
@@ -163,7 +163,7 @@
 [L]
 --
 - [`Koikatu Sunshine Lighting_Tweaks_v1.0.1`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Lewd_Crest_X_v1.3.1`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
+- [`Koikatu Sunshine Lewd_Crest_X_v1.3.2`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
 
 [M]
 --
