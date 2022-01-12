@@ -232,6 +232,7 @@
 [V]
 --
 - [`Koikatu Sunshine VN_Game_Engine_ᴠ34.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu Sunshine Vanilla_Plus_Shaders_v1.0`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 
 [W]
 --
