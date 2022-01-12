@@ -173,7 +173,7 @@
 - [`Koikatu Sunshine Maker_Tool_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
 - [`Koikatu Sunshine MMDD_ᴠ2.3.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu Sunshine More_Accessory_Parents_v2.0.1`](https://www.patreon.com/posts/24129495)
-- [`Koikatu Sunshine Moar_Camz_Plugin_v1.0.7`](https://github.com/OrangeSpork/MoarCamz)
+- [`Koikatu Sunshine Moar_Camz_Plugin_v1.0.8`](https://github.com/OrangeSpork/MoarCamz)
 - [`Koikatu Sunshine Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch)
 - [`Koikatu Sunshine Maker_Tools_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
 - [`Koikatu Sunshine More_Outfits_v1.1.2`](https://github.com/IllusionMods/KK_Plugins#readme)
