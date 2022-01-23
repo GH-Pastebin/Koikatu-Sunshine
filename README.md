@@ -99,7 +99,7 @@
 - [`Koikatu Sunshine Ahegao_v2.0`](https://github.com/IllusionMods/Ahegao/releases/tag/2.0)
 - [`Koikatu Sunshine Animation_Controller_v2.3`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Animation_Overdrive_v1.1`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Adv_IK_Plugin_ᴠ1.6.8`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
+- [`Koikatu Sunshine Adv_IK_Plugin_ᴠ1.7.0`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`Koikatu Sunshine Add_Pose_v1.1`](https://cdn.discordapp.com/attachments/847675345297473546/914399165012922438/KKS_add_pose_v1.1.zipmod)
 
 [B]
