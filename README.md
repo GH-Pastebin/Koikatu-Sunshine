@@ -148,6 +148,7 @@
 - [`Koikatu Sunshine Hide_All_UI_v2.3.2`](https://github.com/IllusionMods/HideAllUI)
 - [`Koikatu Sunshine Height_Bar_v3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Sunshine Head_UTL_v0.2.7`](https://cdn.discordapp.com/attachments/847675345297473546/890488769579470848/KKS_HeadUtl.zip)
+- [`Koikatu Sunshine H_Light_Control_ᴠ1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
 
 [I]
 --
@@ -229,6 +230,7 @@
 
 [U]
 --
+- [`Koikatu Sunshine Unlock_Player_H_Clothes_v1.4.4`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
 
 [V]
 --
