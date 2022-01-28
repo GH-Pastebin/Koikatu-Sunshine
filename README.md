@@ -190,7 +190,7 @@
 
 [P]
 --
-- [`Koikatu Sunshine Pregnancy_Plus_ᴠ5.5`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Sunshine Pregnancy_Plus_ᴠ6.1`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Pregnancy_Mod_ᴠ2.5.5`](https://www.patreon.com/posts/40713494)
 - [`Koikatu Sunshine Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Folders_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
