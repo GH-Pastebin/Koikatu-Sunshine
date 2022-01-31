@@ -160,7 +160,8 @@
 
 [K]
 --
-- [`Koikatu Sunshine KKSPE_ᴠ2.12.0`](https://cdn.discordapp.com/attachments/847675345297473546/915961529147465798/KKSPE.dll)
+- [`Koikatu Sunshine KKSPE_ᴠ2.13.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
+- [`Koikatu Sunshine KKUS_v1.11`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 
 [L]
 --
@@ -183,14 +184,14 @@
 
 [N]
 --
-- [`Koikatu Sunshine Nodes_Constraints_ᴠ1.2.1`](https://cdn.discordapp.com/attachments/847675345297473546/915961529608859688/NodesConstraints.dll)
+- [`Koikatu Sunshine Nodes_Constraints_ᴠ1.2.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 
 [O]
 --
 
 [P]
 --
-- [`Koikatu Sunshine Pregnancy_Plus_ᴠ6.1`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Sunshine Pregnancy_Plus_ᴠ6.2`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Pregnancy_Mod_ᴠ2.5.5`](https://www.patreon.com/posts/40713494)
 - [`Koikatu Sunshine Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Folders_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
@@ -226,7 +227,7 @@
 --
 - [`Koikatu Sunshine TwoLut_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Text_Resource_Redirector_v1.4.5.2`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Timeline_ᴠ1.1.0`](https://cdn.discordapp.com/attachments/847675345297473546/915961529394925608/Timeline.dll)
+- [`Koikatu Sunshine Timeline_ᴠ1.1.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 
 [U]
 --
@@ -236,6 +237,8 @@
 --
 - [`Koikatu Sunshine VN_Game_Engine_ᴠ34.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Sunshine Vanilla_Plus_Shaders_v1.02`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
+- [`Koikatu Sunshine Video_Export_v1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
+
 
 [W]
 --
