@@ -145,7 +145,7 @@
 [H]
 --
 - [`Koikatu Sunshine H_Chara_Adjustment_v2.0`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Hair_Accessory_Customizer_v1.1.6`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Hair_Accessory_Customizer_v1.1.7`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Hide_All_UI_v2.3.2`](https://github.com/IllusionMods/HideAllUI)
 - [`Koikatu Sunshine Height_Bar_v3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Sunshine Head_UTL_v0.2.7`](https://cdn.discordapp.com/attachments/847675345297473546/890488769579470848/KKS_HeadUtl.zip)
@@ -171,9 +171,9 @@
 
 [M]
 --
-- [`Koikatu Sunshine Material_Editor_v3.1.14`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Sunshine Material_Editor_v3.1.16`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
-- [`Koikatu Sunshine Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
+- [`Koikatu Sunshine Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`Koikatu Sunshine Maker_Tool_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
 - [`Koikatu Sunshine MMDD_ᴠ2.3.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu Sunshine More_Accessory_Parents_v2.0.1`](https://www.patreon.com/posts/24129495)
@@ -223,6 +223,7 @@
 - [`Koikatu Sunshine Studio_Scene_Settings_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Skin_Effects_ᴠ2.0.1`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
 - [`Koikatu Sunshine Stiletto_Beta_v2021.10.28`](https://github.com/Cl33p/Stiletto/releases/tag/v1)
+- [`Koikatu Sunshine Shader_Swapper_v1.0`](https://github.com/IllusionMods/KK_Plugins/)
 
 [T]
 --
