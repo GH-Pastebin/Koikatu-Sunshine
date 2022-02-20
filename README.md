@@ -78,7 +78,7 @@
 **[Recommended Mod Plugins]**
 --
 - [`BepInEx_ᴠ5.4.19`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r16.9.2`](https://github.com/IllusionMods/BepisPlugins)
+- [`BepInEx.Plugins_r17.0`](https://github.com/IllusionMods/BepisPlugins)
 - [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
@@ -138,6 +138,7 @@
 - [`Koikatu Sunshine Force_High_Poly_v1.2.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Fixational_Eye_Movement_v1.3.3`](https://cdn.discordapp.com/attachments/847675345297473546/882962715516215366/KKS_FixationalEyeMovement.zip)
 - [`Koikatu Sunshine FK_IK_v1.1.3`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Fade_Adjuster_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
 
 [G]
 --
@@ -197,8 +198,9 @@
 - [`Koikatu Sunshine Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Folders_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Unlocker_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Pose_Quick_Load_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Pose_Quick_Load_v1.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Post_Processing_Effects_v1.5`](https://ux.getuploader.com/nHaruka_KK/)
+- [`Koikatu Sunshine Pose_Tools_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 
 [Q]
 --
