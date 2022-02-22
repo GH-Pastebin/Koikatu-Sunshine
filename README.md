@@ -239,7 +239,7 @@
 
 [V]
 --
-- [`Koikatu Sunshine VN_Game_Engine_ᴠ34.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu Sunshine VN_Game_Engine_ᴠ35.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Sunshine Vanilla_Plus_Shaders_v1.1.5`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 - [`Koikatu Sunshine Video_Export_v1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Sunshine VMD_Play_Plugin_v0.4.0`](https://cdn.discordapp.com/attachments/847675345297473546/939568209382740108/KKS_VMDPlayPlugin_0.4.0.zip)
