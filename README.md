@@ -84,7 +84,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu Sunshine API_ᴠ1.31.2`](https://github.com/IllusionMods/IllusionModdingAPI)
-- [`Koikatu Sunshine Illusion_Fixes_ᴠ19.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Sunshine Illusion_Fixes_ᴠ19.2`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
 **[Utility Mod Plugins]**
