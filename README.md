@@ -139,6 +139,7 @@
 - [`Koikatu Sunshine Fixational_Eye_Movement_v1.3.3`](https://cdn.discordapp.com/attachments/847675345297473546/882962715516215366/KKS_FixationalEyeMovement.zip)
 - [`Koikatu Sunshine FK_IK_v1.1.3`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Fade_Adjuster_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Sunshine FK_Height_Adjust_UI_v1.0.3`](https://github.com/OrangeSpork/FKHeightAdjustUI/releases)
 
 [G]
 --
@@ -151,6 +152,7 @@
 - [`Koikatu Sunshine Height_Bar_v3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Sunshine Head_UTL_v0.2.7`](https://cdn.discordapp.com/attachments/847675345297473546/890488769579470848/KKS_HeadUtl.zip)
 - [`Koikatu Sunshine H_Light_Control_ᴠ1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
+- [`Koikatu Sunshine HS_Plugins_2022.03.01`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2.1)
 
 [I]
 --
@@ -164,6 +166,7 @@
 --
 - [`Koikatu Sunshine KKSPE_ᴠ2.13.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Sunshine KKUS_v1.11`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
+- [`Koikatu Sunshine Keel_Plugins_v2022.03.01`](https://github.com/IllusionMods/KeelPlugins/releases/tag/build-269)
 
 [L]
 --
