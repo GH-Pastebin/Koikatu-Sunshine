@@ -78,7 +78,7 @@
 **[Recommended Mod Plugins]**
 --
 - [`BepInEx_ᴠ5.4.19`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r17.0`](https://github.com/IllusionMods/BepisPlugins)
+- [`BepInEx.Plugins_r18.0`](https://github.com/IllusionMods/BepisPlugins)
 - [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
@@ -242,7 +242,7 @@
 
 [V]
 --
-- [`Koikatu Sunshine VN_Game_Engine_ᴠ35.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu Sunshine VN_Game_Engine_ᴠ36.6`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Sunshine Vanilla_Plus_Shaders_v1.1.5`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 - [`Koikatu Sunshine Video_Export_v1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Sunshine VMD_Play_Plugin_v0.4.0`](https://cdn.discordapp.com/attachments/847675345297473546/939568209382740108/KKS_VMDPlayPlugin_0.4.0.zip)
