@@ -51,7 +51,7 @@
 ---
 **[Koikatu Sunshine Extension Update]**
 --
-- [`koikatsu_sunshine_ex_1_plus0408hf5`](https://mega.nz/file/EMZWATCA#bsmxMTbdE6-ZplVrWgE_SMqxGVJqF5ctr5HQ_BvHQxM) - `(04/08/2022)
+- [`koikatsu_sunshine_ex_1_plus0408hf5`](https://mega.nz/file/EMZWATCA#bsmxMTbdE6-ZplVrWgE_SMqxGVJqF5ctr5HQ_BvHQxM) - `(04/08/2022)`
 
 ---
 **[Character Studio Update]**
