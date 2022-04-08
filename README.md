@@ -49,6 +49,11 @@
 - [`koikatsu_sunshine_2_plus0210w5g6`](https://dl.betterrepack.com/IllusionLib/Koikatsu%20Sunshine/Updates/koikatsu_sunshine_2_plus0210w5g6.exe) - `(02/10/2022)`
 
 ---
+**[Koikatu Sunshine Extension Update]**
+--
+- [`koikatsu_sunshine_ex_1_plus0408hf5`](https://mega.nz/file/EMZWATCA#bsmxMTbdE6-ZplVrWgE_SMqxGVJqF5ctr5HQ_BvHQxM) - `(04/08/2022)
+
+---
 **[Character Studio Update]**
 --
 - [`Koikatu Sunshine CharaStudio_Part_01`](https://mega.nz/file/BT4h3aRD#MrRf7irysP421-nPoE1V8ExtnIrj8NwWBTCXlx4W5D0)
