@@ -35,6 +35,7 @@
 - [`Booru`](https://kenzato.uk/booru/)
 - [`Plugins-Compendium`](https://github.com/Frostation/KK-Plugins-Compendium)
 - [`Plugin Data Reader`](https://plugindatareader.maki0419.com/)
+- [`BepisDB`](https://db.bepis.moe/)
 
 ---
 **[Female & Male Uncensor Mod]**
