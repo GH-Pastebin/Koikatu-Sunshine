@@ -143,7 +143,7 @@
 
 [F]
 --
-- [`Koikatu Sunshine Force_High_Poly_v2.0`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Force_High_Poly_v2.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Fixational_Eye_Movement_v1.3.3`](https://cdn.discordapp.com/attachments/847675345297473546/882962715516215366/KKS_FixationalEyeMovement.zip)
 - [`Koikatu Sunshine FK_IK_v1.1.3`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Fade_Adjuster_v1.0.3`](https://github.com/IllusionMods/KK_Plugins)
@@ -187,7 +187,7 @@
 - [`Koikatu Sunshine More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`Koikatu Sunshine Maker_Tool_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
-- [`Koikatu Sunshine MMDD_ᴠ2.3.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
+- [`Koikatu Sunshine MMDD_ᴠ2.4`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu Sunshine More_Accessory_Parents_v2.0.1`](https://www.patreon.com/posts/24129495)
 - [`Koikatu Sunshine Moar_Camz_Plugin_v1.0.8`](https://github.com/OrangeSpork/MoarCamz)
 - [`Koikatu Sunshine Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch)
@@ -204,7 +204,7 @@
 
 [P]
 --
-- [`Koikatu Sunshine Pregnancy_Plus_ᴠ6.6`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Sunshine Pregnancy_Plus_ᴠ6.8`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Pregnancy_Mod_ᴠ2.5.5`](https://www.patreon.com/posts/40713494)
 - [`Koikatu Sunshine Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Folders_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
@@ -236,7 +236,7 @@
 - [`Koikatu Sunshine Studio_Scene_Settings_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Skin_Effects_ᴠ2.0.1`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
 - [`Koikatu Sunshine Stiletto_Beta_v2021.10.28`](https://github.com/Cl33p/Stiletto/releases/tag/v1)
-- [`Koikatu Sunshine Shader_Swapper_v1.0`](https://github.com/IllusionMods/KK_Plugins/)
+- [`Koikatu Sunshine Shader_Swapper_v1.1`](https://github.com/IllusionMods/KK_Plugins/)
 
 [T]
 --
@@ -250,7 +250,7 @@
 
 [V]
 --
-- [`Koikatu Sunshine VN_Game_Engine_ᴠ36.6`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu Sunshine VN_Game_Engine_ᴠ37.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Sunshine Vanilla_Plus_Shaders_v1.1.5`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 - [`Koikatu Sunshine Video_Export_v1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Sunshine VMD_Play_Plugin_v0.4.0`](https://cdn.discordapp.com/attachments/847675345297473546/939568209382740108/KKS_VMDPlayPlugin_0.4.0.zip)
