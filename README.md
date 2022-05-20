@@ -52,7 +52,7 @@
 ---
 **[Koikatu Sunshine Extension Update]**
 --
-- [`koikatsu_sunshine_ex_1_plus0428v7me`](https://mega.nz/file/BewWzTiS#pIe5Ip3Ag_IewA1CfZMuDuyE8x9SZW7fRMPkJxr8tLg) - `(04/29/2022)` `(DLC Required)`
+- [`koikatsu_sunshine_ex_1_plus0520bav3`](https://mega.nz/file/EP4XHbqD#I0WikcKNtZoy_j1ebY3xg9jLktM4LMe2yhAfJdnPfbU) - `(05/20/2022)` `(DLC Required)`
 
 ---
 **[Character Studio Update]**
