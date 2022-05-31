@@ -174,7 +174,7 @@
 --
 - [`Koikatu Sunshine KKSPE_ᴠ2.13.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Sunshine KKUS_v1.11`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
-- [`Koikatu Sunshine Keel_Plugins_v2022.05.28`](https://github.com/IllusionMods/KeelPlugins/releases/tag/build-269)
+- [`Koikatu Sunshine Keel_Plugins_v2022.05.28`](https://github.com/IllusionMods/KeelPlugins/releases/tag/build-270)
 
 [L]
 --
