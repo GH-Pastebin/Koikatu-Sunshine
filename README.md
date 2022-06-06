@@ -90,7 +90,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu Sunshine API_ᴠ1.32`](https://github.com/IllusionMods/IllusionModdingAPI)
-- [`Koikatu Sunshine Illusion_Fixes_ᴠ19.3`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Sunshine Illusion_Fixes_ᴠ20.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
 **[Utility Mod Plugins]**
@@ -160,7 +160,7 @@
 - [`Koikatu Sunshine Height_Bar_v3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Sunshine Head_UTL_v0.2.7`](https://cdn.discordapp.com/attachments/847675345297473546/890488769579470848/KKS_HeadUtl.zip)
 - [`Koikatu Sunshine H_Light_Control_ᴠ1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
-- [`Koikatu Sunshine HS_Plugins_2022.03.01`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2.1)
+- [`Koikatu Sunshine HS_Plugins_v2022.06.05`](https://github.com/IllusionMods/HSPlugins/releases)
 
 [I]
 --
