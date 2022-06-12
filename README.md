@@ -111,7 +111,7 @@
 
 [B]
 --
-- [`Koikatu Sunshine Better_Penetration_v4.5.2`](https://github.com/Animal42069/BetterPenetration/releases/tag/4.5.0)
+- [`Koikatu Sunshine Better_Penetration_v4.5.5`](https://github.com/Animal42069/BetterPenetration/releases/tag/4.5.0)
 - [`Koikatu Sunshine Better_Color_Picker_v2.0.3`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
 - [`Koikatu Sunshine Butt_Plugin_v2.1.0`](https://www.patreon.com/posts/55589270)
 - [`Koikatu Sunshine Browser_Folders_v2.6.2`](https://www.patreon.com/posts/40644638)
