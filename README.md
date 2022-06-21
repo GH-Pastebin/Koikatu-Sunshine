@@ -224,7 +224,7 @@
 
 [S]
 --
-- [`Koikatu Sunshine Sabakan_Plugins_v0312`](https://discord.com/channels/447114928785063977/847675345297473546/952099499885625364)
+- [`Koikatu Sunshine Sabakan_Plugins_v0617`](https://discord.com/channels/447114928785063977/847675345297473546/987555781450801172)
 - [`Koikatu Sunshine Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Sunshine Slap_Mod`](https://cdn.discordapp.com/attachments/847675345297473546/881154322476462111/KKS_Slapmod.zip)
 - [`Koikatu Sunshine Subtitles_v2.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
