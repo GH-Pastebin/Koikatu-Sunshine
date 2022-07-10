@@ -85,7 +85,7 @@
 --
 - [`BepInEx_ᴠ5.4.19`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Plugins_r18.2`](https://github.com/IllusionMods/BepisPlugins)
-- [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
+- [`BepInEx.Configuration_Manager_ᴠ17.0`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
