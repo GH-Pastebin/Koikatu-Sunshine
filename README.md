@@ -73,7 +73,7 @@
 - [`Koikatu Sunshine Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 - [`Koikatu Sunshine Translation_Release_v2022-04-15`](https://github.com/IllusionMods/KKS-Translation/releases/tag/v4)
 - [`Koikatu Sunshine Text_Resource_Redirector_v1.4.4.5`](https://github.com/IllusionMods/TranslationTools)
-- [`XUnity.AutoTranslator-BepIn-5x-5.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-5.1.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 
  ---
 **[Mod Archive]**
