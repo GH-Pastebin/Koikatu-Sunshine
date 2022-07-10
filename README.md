@@ -84,6 +84,7 @@
 **[Recommended Mod Plugins]**
 --
 - [`BepInEx_ᴠ5.4.19`](https://github.com/BepInEx/BepInEx/releases)
+- [`BepInEx_LTS`](https://builds.bepinex.dev/)
 - [`BepInEx.Plugins_r18.2`](https://github.com/IllusionMods/BepisPlugins)
 - [`BepInEx.Configuration_Manager_ᴠ17.0`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
