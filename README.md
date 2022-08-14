@@ -205,7 +205,7 @@
 
 [P]
 --
-- [`Koikatu Sunshine Pregnancy_Plus_ᴠ7.6`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`Koikatu Sunshine Pregnancy_Plus_ᴠ7.8`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`Koikatu Sunshine Pregnancy_Mod_ᴠ2.5.5`](https://www.patreon.com/posts/40713494)
 - [`Koikatu Sunshine Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Folders_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
@@ -225,7 +225,7 @@
 
 [S]
 --
-- [`Koikatu Sunshine Sabakan_Plugins_v0618`](https://discord.com/channels/447114928785063977/847675345297473546/987555781450801172)
+- [`Koikatu Sunshine Sabakan_Plugins_v0811`](https://discord.com/channels/447114928785063977/847675345297473546/1007181721848000532)
 - [`Koikatu Sunshine Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Sunshine Slap_Mod`](https://cdn.discordapp.com/attachments/847675345297473546/881154322476462111/KKS_Slapmod.zip)
 - [`Koikatu Sunshine Subtitles_v2.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
