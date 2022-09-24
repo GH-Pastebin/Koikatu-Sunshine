@@ -180,7 +180,7 @@
 [L]
 --
 - [`Koikatu Sunshine Lighting_Tweaks_v1.0.1`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Lewd_Crest_X_v1.3.4`]https://www.patreon.com/posts/47399394)
+- [`Koikatu Sunshine Lewd_Crest_X_v1.3.4`](https://www.patreon.com/posts/47399394)
 
 [M]
 --
