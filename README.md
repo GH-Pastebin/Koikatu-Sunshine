@@ -180,7 +180,7 @@
 [L]
 --
 - [`Koikatu Sunshine Lighting_Tweaks_v1.0.1`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Lewd_Crest_X_v1.3.2`](https://www.patreon.com/posts/kk-lewdcrestx-v1-47399394?cid=57974753)
+- [`Koikatu Sunshine Lewd_Crest_X_v1.3.4`]https://www.patreon.com/posts/47399394)
 
 [M]
 --
@@ -206,7 +206,7 @@
 [P]
 --
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ7.8`](https://github.com/thojmr/KK_PregnancyPlus/releases)
-- [`Koikatu Sunshine Pregnancy_Mod_ᴠ2.5.5`](https://www.patreon.com/posts/40713494)
+- [`Koikatu Sunshine Pregnancy_Mod_ᴠ2.7`](https://www.patreon.com/posts/62734217)
 - [`Koikatu Sunshine Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Folders_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Unlocker_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
