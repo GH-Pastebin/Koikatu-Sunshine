@@ -84,7 +84,6 @@
 **[Recommended Mod Plugins]**
 --
 - [`BepInEx_ᴠ5.4.21`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx_IL2CPP_v6.0.0_BE_656`](https://builds.bepinex.dev/)
 - [`BepInEx.Plugins_r18.2`](https://github.com/IllusionMods/BepisPlugins)
 - [`BepInEx.Configuration_Manager_ᴠ17.1`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
