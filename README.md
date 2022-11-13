@@ -84,14 +84,14 @@
 **[Recommended Mod Plugins]**
 --
 - [`BepInEx_ᴠ5.4.21`](https://github.com/BepInEx/BepInEx/releases)
-- [`BepInEx.Plugins_r19.0.2`](https://github.com/IllusionMods/BepisPlugins)
+- [`BepInEx.Plugins_r19.1`](https://github.com/IllusionMods/BepisPlugins)
 - [`BepInEx.Configuration_Manager_ᴠ17.1`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
-- [`Runtime_Unity_Editor_BepInEx5_v3.0.0`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
+- [`Runtime_Unity_Editor_BepInEx5_v4.0.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu Sunshine API_ᴠ1.33`](https://github.com/IllusionMods/IllusionModdingAPI)
-- [`Koikatu Sunshine Illusion_Fixes_ᴠ20.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Sunshine Illusion_Fixes_ᴠ20.2`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
 **[Utility Mod Plugins]**
@@ -126,7 +126,7 @@
 - [`Koikatu Sunshine Colliders_v1.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Cross_Fader_v0.2.2`](https://cdn.discordapp.com/attachments/847675345297473546/894513051091496970/KKS_CrossFader.zip)
 - [`Koikatu Sunshine Clothing_State_Menu_ᴠ3.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
-- [`Koikatu Sunshine Cheat_Tools_ᴠ3.1.1`](https://www.patreon.com/posts/37889909)
+- [`Koikatu Sunshine Cheat_Tools_ᴠ3.2.0`](https://www.patreon.com/posts/37889909)
 - [`Koikatu Sunshine Clothes_To_Accessories_v1.0.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 
 [D]
@@ -161,7 +161,7 @@
 - [`Koikatu Sunshine Height_Bar_v3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Sunshine Head_UTL_v0.2.7`](https://cdn.discordapp.com/attachments/847675345297473546/890488769579470848/KKS_HeadUtl.zip)
 - [`Koikatu Sunshine H_Light_Control_ᴠ1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
-- [`Koikatu Sunshine HS_Plugins_v2022.09.26`](https://github.com/IllusionMods/HSPlugins/releases)
+- [`Koikatu Sunshine HS_Plugins_v2022.11.12`](https://github.com/IllusionMods/HSPlugins/releases)
 
 [I]
 --
@@ -175,7 +175,7 @@
 --
 - [`Koikatu Sunshine KKSPE_ᴠ2.13.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Sunshine KKUS_v1.11`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
-- [`Koikatu Sunshine Keel_Plugins_v2022.05.28`](https://github.com/IllusionMods/KeelPlugins/releases/tag/build-270)
+- [`Koikatu Sunshine Keel_Plugins_v2022.11.09`](https://github.com/IllusionMods/KeelPlugins/releases)
 
 [L]
 --
