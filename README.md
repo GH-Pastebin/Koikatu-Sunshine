@@ -161,7 +161,7 @@
 - [`Koikatu Sunshine Height_Bar_v3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Sunshine Head_UTL_v0.2.7`](https://cdn.discordapp.com/attachments/847675345297473546/890488769579470848/KKS_HeadUtl.zip)
 - [`Koikatu Sunshine H_Light_Control_ᴠ1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
-- [`Koikatu Sunshine HS_Plugins_v2022.11.12`](https://github.com/IllusionMods/HSPlugins/releases)
+- [`Koikatu Sunshine HS_Plugins_v2022.11.23`](https://github.com/IllusionMods/HSPlugins/releases)
 
 [I]
 --
