@@ -40,7 +40,7 @@
 ---
 **[Female & Male Uncensor Mod]**
 --
-- [`Koikatu Sunshine Uncensor_Selector_v3.11.5`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Sunshine Uncensor_Selector_v3.11.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine SAC_Uncensor_Selector_Package_v0.2`](https://cdn.discordapp.com/attachments/476358846764548137/914712911421780008/anon_SAC_Uncensor_Selector_Pack_v0.0.2.zipmod)
 - [`Koikatu Sunshine Demosaic_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 
@@ -131,7 +131,7 @@
 
 [D]
 --
-- [`Koikatu Sunshine Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Dynamic_Bone_Editor_v1.0.5`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Display_Thumbnails_v1.4.1`](https://cdn.discordapp.com/attachments/847675345297473546/883305822912925706/KKS_DisplayofThumbnails.zip)
 - [`Koikatu Sunshine Drag_And_Drop_v1.2.7`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.7)
 
@@ -184,7 +184,7 @@
 
 [M]
 --
-- [`Koikatu Sunshine Material_Editor_v3.1.19`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Sunshine Material_Editor_v3.1.20`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`Koikatu Sunshine Maker_Tool_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
@@ -251,7 +251,7 @@
 
 [V]
 --
-- [`Koikatu Sunshine VN_Game_Engine_ᴠ39.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu Sunshine VN_Game_Engine_ᴠ40.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Sunshine Vanilla_Plus_Shaders_v1.1.5`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 - [`Koikatu Sunshine Video_Export_v1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Sunshine VMD_Play_Plugin_v0.4.0`](https://cdn.discordapp.com/attachments/847675345297473546/939568209382740108/KKS_VMDPlayPlugin_0.4.0.zip)
