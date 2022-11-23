@@ -237,7 +237,7 @@
 - [`Koikatu Sunshine Studio_Scene_Settings_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Skin_Effects_ᴠ2.1.1`](https://github.com/ManlyMarco/KK_SkinEffects/releases)
 - [`Koikatu Sunshine Stiletto_Beta_v2021.10.28`](https://github.com/Cl33p/Stiletto/releases/tag/v1)
-- [`Koikatu Sunshine Shader_Swapper_v1.1`](https://github.com/IllusionMods/KK_Plugins/)
+- [`Koikatu Sunshine Shader_Swapper_v1.3`](https://github.com/IllusionMods/KK_Plugins/)
 
 [T]
 --
