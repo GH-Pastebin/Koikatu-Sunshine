@@ -99,7 +99,7 @@
 
 [A]
 --
-- [`Koikatu Sunshine ABMX_ᴠ5.0.0`](https://github.com/ManlyMarco/ABMX/releases)
+- [`Koikatu Sunshine ABMX_ᴠ5.0.1`](https://github.com/ManlyMarco/ABMX/releases)
 - [`Koikatu Sunshine Accessory_Clothes_v1.0.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Accessory_Quick_Remove_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Accessory_States_v1.6`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
@@ -184,7 +184,7 @@
 
 [M]
 --
-- [`Koikatu Sunshine Material_Editor_v3.1.20`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Sunshine Material_Editor_v3.1.21`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`Koikatu Sunshine Maker_Tool_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
