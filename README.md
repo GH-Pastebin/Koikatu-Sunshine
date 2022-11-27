@@ -90,7 +90,7 @@
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v4.0.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`Koikatu Sunshine API_ᴠ1.33`](https://github.com/IllusionMods/IllusionModdingAPI)
+- [`Koikatu Sunshine API_ᴠ1.35`](https://github.com/IllusionMods/IllusionModdingAPI)
 - [`Koikatu Sunshine Illusion_Fixes_ᴠ20.2`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
@@ -226,7 +226,7 @@
 [S]
 --
 - [`Koikatu Sunshine Sabakan_Plugins_v0811`](https://discord.com/channels/447114928785063977/847675345297473546/1007181721848000532)
-- [`Koikatu Sunshine Slider_Highlight_v2.1.1`](https://www.patreon.com/posts/44119450)
+- [`Koikatu Sunshine Slider_Highlight_v2.2.0`](https://www.patreon.com/posts/44119450)
 - [`Koikatu Sunshine Slap_Mod`](https://cdn.discordapp.com/attachments/847675345297473546/881154322476462111/KKS_Slapmod.zip)
 - [`Koikatu Sunshine Subtitles_v2.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Sub_Camera_v1.2.1`](https://cdn.discordapp.com/attachments/847675345297473546/883306075275800606/KKS_SubCamera.zip)
