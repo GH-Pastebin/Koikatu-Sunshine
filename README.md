@@ -188,7 +188,7 @@
 - [`Koikatu Sunshine More_Accessories_ᴠ2.0.21`](https://github.com/jalil49/MoreAccessories/releases)
 - [`Koikatu Sunshine Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`Koikatu Sunshine Maker_Tool_v1.7`](https://github.com/jalil49/Maker_Tools/releases/tag/1.7)
-- [`Koikatu Sunshine MMDD_ᴠ2.4`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
+- [`Koikatu Sunshine MMDD_ᴠ2.6.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`Koikatu Sunshine More_Accessory_Parents_v2.0.1`](https://www.patreon.com/posts/24129495)
 - [`Koikatu Sunshine Moar_Camz_Plugin_v1.0.8`](https://github.com/OrangeSpork/MoarCamz)
 - [`Koikatu Sunshine Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch)
@@ -251,7 +251,7 @@
 
 [V]
 --
-- [`Koikatu Sunshine VN_Game_Engine_ᴠ40.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
+- [`Koikatu Sunshine VN_Game_Engine_ᴠ41.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ)
 - [`Koikatu Sunshine Vanilla_Plus_Shaders_v1.1.5`](https://mega.nz/folder/Mf4VxCxY#NwgnhFt6z68tzhMSpbXmYA)
 - [`Koikatu Sunshine Video_Export_v1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Sunshine VMD_Play_Plugin_v0.4.0`](https://cdn.discordapp.com/attachments/847675345297473546/939568209382740108/KKS_VMDPlayPlugin_0.4.0.zip)
