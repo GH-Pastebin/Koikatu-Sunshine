@@ -40,7 +40,7 @@
 ---
 **[Female & Male Uncensor Mod]**
 --
-- [`Koikatu Sunshine Uncensor_Selector_v3.11.6`](https://github.com/IllusionMods/KK_Plugins)
+- [`Koikatu Sunshine Uncensor_Selector_v3.11.7`](https://github.com/IllusionMods/KK_Plugins)
 - [`Koikatu Sunshine SAC_Uncensor_Selector_Package_v0.2`](https://cdn.discordapp.com/attachments/476358846764548137/914712911421780008/anon_SAC_Uncensor_Selector_Pack_v0.0.2.zipmod)
 - [`Koikatu Sunshine Demosaic_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 
@@ -91,7 +91,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v4.1.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.20.2`](https://github.com/IllusionMods/KKManager/releases)
 - [`Koikatu Sunshine API_ᴠ1.35`](https://github.com/IllusionMods/IllusionModdingAPI)
-- [`Koikatu Sunshine Illusion_Fixes_ᴠ20.2a`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Sunshine Illusion_Fixes_ᴠ21.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
 **[Utility Mod Plugins]**
@@ -115,7 +115,7 @@
 - [`Koikatu Sunshine Better_Penetration_v4.5.5`](https://github.com/Animal42069/BetterPenetration/releases/tag/4.5.0)
 - [`Koikatu Sunshine Better_Color_Picker_v2.0.3`](https://github.com/ManlyMarco/Illusion_BetterColorPicker/releases/latest)
 - [`Koikatu Sunshine Butt_Plugin_v2.1.0`](https://www.patreon.com/posts/55589270)
-- [`Koikatu Sunshine Browser_Folders_v2.6.2`](https://www.patreon.com/posts/40644638)
+- [`Koikatu Sunshine Browser_Folders_v3.0.0`](https://www.patreon.com/posts/40644638)
 - [`Koikatu Sunshine Boop_v2.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 
 [C]
@@ -123,7 +123,7 @@
 - [`Koikatu Sunshine Character_Replacer_v1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
 - [`Koikatu Sunshine Cloth_Colliders_v1.1`](https://www.patreon.com/posts/35139324)
 - [`Koikatu Sunshine Clothing_Unlocker_v2.0.2`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`Koikatu Sunshine Colliders_v1.2`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`Koikatu Sunshine Colliders_v1.3`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Cross_Fader_v0.2.2`](https://cdn.discordapp.com/attachments/847675345297473546/894513051091496970/KKS_CrossFader.zip)
 - [`Koikatu Sunshine Clothing_State_Menu_ᴠ3.1`](https://github.com/ManlyMarco/KK_ClothingStateMenu/releases)
 - [`Koikatu Sunshine Cheat_Tools_ᴠ3.2.0`](https://www.patreon.com/posts/37889909)
@@ -161,7 +161,7 @@
 - [`Koikatu Sunshine Height_Bar_v3.4`](https://www.patreon.com/posts/35859949)
 - [`Koikatu Sunshine Head_UTL_v0.2.7`](https://cdn.discordapp.com/attachments/847675345297473546/890488769579470848/KKS_HeadUtl.zip)
 - [`Koikatu Sunshine H_Light_Control_ᴠ1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
-- [`Koikatu Sunshine HS_Plugins_v2022.11.23`](https://github.com/IllusionMods/HSPlugins/releases)
+- [`Koikatu Sunshine HS_Plugins_v2023.03.14`](https://github.com/IllusionMods/HSPlugins/releases)
 
 [I]
 --
@@ -175,7 +175,7 @@
 --
 - [`Koikatu Sunshine KKSPE_ᴠ2.13.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`Koikatu Sunshine KKUS_v1.11`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
-- [`Koikatu Sunshine Keel_Plugins_v2022.11.09`](https://github.com/IllusionMods/KeelPlugins/releases)
+- [`Koikatu Sunshine Keel_Plugins_v2023.03.16`](https://github.com/IllusionMods/KeelPlugins/releases)
 
 [L]
 --
@@ -206,7 +206,7 @@
 [P]
 --
 - [`Koikatu Sunshine Pregnancy_Plus_ᴠ7.8`](https://github.com/thojmr/KK_PregnancyPlus/releases)
-- [`Koikatu Sunshine Pregnancy_Mod_ᴠ2.7`](https://www.patreon.com/posts/62734217)
+- [`Koikatu Sunshine Pregnancy_Mod_ᴠ2.7.1`](https://www.patreon.com/posts/62734217)
 - [`Koikatu Sunshine Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Folders_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`Koikatu Sunshine Pose_Unlocker_v1.0`](https://github.com/IllusionMods/KK_Plugins#readme)
