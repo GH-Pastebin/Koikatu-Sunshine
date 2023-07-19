@@ -90,8 +90,8 @@
 - [`XUnity.Resource_Redirector-BepIn-5x-v2.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v4.1.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`Manager_ᴠ0.20.2`](https://github.com/IllusionMods/KKManager/releases)
-- [`Koikatu Sunshine API_ᴠ1.35`](https://github.com/IllusionMods/IllusionModdingAPI)
-- [`Koikatu Sunshine Illusion_Fixes_ᴠ21.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`Koikatu Sunshine API_ᴠ1.36`](https://github.com/IllusionMods/IllusionModdingAPI)
+- [`Koikatu Sunshine Illusion_Fixes_ᴠ21.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 
 ---
 **[Utility Mod Plugins]**
